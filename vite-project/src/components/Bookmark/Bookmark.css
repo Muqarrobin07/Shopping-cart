@@ -1,0 +1,13 @@
+.user-image-container img {
+  width: 100px;
+  height: 100px;
+  border-radius: 25px;
+}
+.break-time {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
